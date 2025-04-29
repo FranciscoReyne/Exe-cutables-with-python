@@ -1,10 +1,4 @@
-## Hecho para usuarios, conocimientos deseables en datos espaciales (QGIS).-
-
-Leer: https://mappinggis.com/2024/07/uso-de-qgis-para-crear-mapas-hexagonales/
-
-
-
-# parte 1
+# Parte 1
 
  Hay varias opciones para convertir código Python en un ejecutable (.exe) que pueda correr en cualquier PC con Windows. Aquí te presento algunas de las librerías más populares:
 
